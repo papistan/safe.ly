@@ -1,5 +1,8 @@
-<h1> THIS IS THE INDEX FILE </h1>
-<ul><% @earthquakes.each do |earthquake| %>
-	<li><%= earthquake.location %></li>
+<br><br><br><br><br><br>
+
+<h2 style="text-align: center;">Latest Earthquakes</h2>
+
+<ul class="list-group"><% @earthquakes.each do |earthquake| %>
+	<li class="list-group-item"><h4><%= earthquake.location %></h4></li>
 	<% end %>
 </ul>
