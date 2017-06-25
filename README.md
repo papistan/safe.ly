@@ -11,7 +11,7 @@ The app workflow is as follows:
 - the app first sends a text to these users asking them if they're OK.
 - if the user responds "YES", the app then sends a text to all the numbers stored in the database that relate to the user's loved ones and notify them that the user in question is SAFE.
 
-**With safe.ly, your loved ones are always a text away from knowing you're safe!**
+*With safe.ly, your loved ones are always a text away from knowing you're safe!*
 
 Our team members are:
 * Chinmay Banker
