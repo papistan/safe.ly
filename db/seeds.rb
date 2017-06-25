@@ -10,3 +10,7 @@ User.create(first_name: "Jay", last_name: "Ota", email: "dev@dbc.com", password:
 
 Relative.create(full_name: "Kenn Sugiyama", phone: "6282336231", user_id: 1)
 Relative.create(full_name: "James Turkinton", phone: "4082075600", user_id: 1)
+Relative.create(full_name: "Joe Hinter", phone: "4082075600", user_id: 1)
+Relative.create(full_name: "Helen Partel", phone: "4082075600", user_id: 1)
+Relative.create(full_name: "Shambhavi Gutenberg", phone: "4082075600", user_id: 1)
+
