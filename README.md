@@ -14,7 +14,7 @@ The app workflow is as follows:
 ***With safe.ly, your loved ones are always a text away from knowing you're safe!
 
 Our team members are:
-1- Chinmay Banker
-2- Jay Papisan
-3- Lucas Kuhn
-4- Jun Ota
+* Chinmay Banker
+* Jay Papisan
+* Lucas Kuhn
+* Jun Ota
