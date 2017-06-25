@@ -1,7 +1,17 @@
 class SmsMessagesController < ApplicationController
 
-	def index
+	def new_earthquakes
+		@location = params[:jsonData]
+		Earthquake.create(location: @location)
+	end
 
+	def user_status
+	end
+
+	def display
+		now = Time.now.beginning_of_day.utc
+		@earthquakes = Earthquake.where('created_at > ?', now ).limit(10)
+		render 'display'
 	end
 
 	def test
@@ -13,7 +23,7 @@ class SmsMessagesController < ApplicationController
 	end
 
 	def create
-		if params["Body"] == "n"
+		if params["Body"] == "y"
 			SmsMessagesHelper.user_thanks
 			SmsMessagesHelper.send_message_to_relatives
 		end
