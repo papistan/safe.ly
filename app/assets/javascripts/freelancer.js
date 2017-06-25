@@ -51,7 +51,6 @@ $(function(){
   $(".relative-section").on("submit", ".relative-form", function(e){
     e.preventDefault();
     console.log(this);
-    debugger;
 
     // $form = $(this);
 
