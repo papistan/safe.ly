@@ -19,11 +19,11 @@ class SmsMessagesController < ApplicationController
 		phone_number = "+14082075600"
 		SmsMessagesHelper.user_safety_check(name, phone_number)
 
-		render 'index'
+		redirect_to root_path
 	end
 
 	def create
-		if params["Body"] == "y"
+		if params["Body"] == "YES"
 			SmsMessagesHelper.user_thanks
 			SmsMessagesHelper.send_message_to_relatives
 		end

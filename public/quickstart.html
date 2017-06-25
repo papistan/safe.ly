@@ -97,7 +97,7 @@
       });
       subscription.on("rtm/subscription/data", function(pdu) {
         // Messages arrive in an array.
-        // setInterval(2);
+        
         pdu.body.messages.forEach(function(msg) {
           
           showText("Earthquake is received...."+ JSON.stringify(msg.properties.title));
