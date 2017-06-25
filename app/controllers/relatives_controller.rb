@@ -8,7 +8,7 @@ def create
 	@user = User.find_by(id: current_user.id)
 	@relative = Relative.new(relative_params)
 		if @relative.save
-			redirect_to @relative
+			redirect_to '/relatives/new'
 		else
 			render 'new'
 		end
