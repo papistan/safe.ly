@@ -1,3 +1,5 @@
+
+
 // Freelancer Theme JavaScript
 
 (function($) {
@@ -42,3 +44,18 @@
     });
 
 })(jQuery); // End of use strict
+
+
+// Ajax user login form and 
+$(function(){
+  $(".relative-section").on("submit", ".relative-form", function(e){
+    e.preventDefault();
+    console.log(this);
+
+    // $form = $(this);
+
+
+  })
+})
+
+
