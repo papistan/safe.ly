@@ -13,7 +13,7 @@ class SmsMessagesController < ApplicationController
 	end
 
 	def create
-		if params["Body"] == "n"
+		if params["Body"] == "y"
 			SmsMessagesHelper.user_thanks
 			SmsMessagesHelper.send_message_to_relatives
 		end
