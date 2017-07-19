@@ -5,8 +5,8 @@ module SmsMessagesHelper
 
 	def self.user_safety_check(name, phone_number)
 
-		account_sid = "AC9c08cb035dce2f575cb89835be07ab96"
-		auth_token = "a4db131ce7f70567eefefe72f129a65d"
+		account_sid = ENV['TWILIO_SID']
+		auth_token = ENV['TWILIO_KEY']
 		client = Twilio::REST::Client.new account_sid, auth_token
 
 		twilionumber = "+14085604554" # Your Twilio number
@@ -22,8 +22,8 @@ module SmsMessagesHelper
 
 	def self.send_message_to_relatives
 
-		account_sid = "AC9c08cb035dce2f575cb89835be07ab96"
-		auth_token = "a4db131ce7f70567eefefe72f129a65d"
+		account_sid = ENV['TWILIO_SID']
+		auth_token = ENV['TWILIO_KEY']
 		client = Twilio::REST::Client.new account_sid, auth_token
 
 		twilionumber = "+14085604554" # Your Twilio number
@@ -49,8 +49,8 @@ module SmsMessagesHelper
 
 	def self.user_thanks
 
-		account_sid = "AC9c08cb035dce2f575cb89835be07ab96"
-		auth_token = "a4db131ce7f70567eefefe72f129a65d"
+		account_sid = ENV['TWILIO_SID']
+		auth_token = ENV['TWILIO_KEY']
 		client = Twilio::REST::Client.new account_sid, auth_token
 
 		twilionumber = "+14085604554" # Your Twilio number
