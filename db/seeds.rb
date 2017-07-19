@@ -10,7 +10,4 @@ User.create(first_name: "Lucas", last_name: "Kuhn", email: "dev@dbc.com", locati
 
 Relative.create(full_name: "Chinmay Banker", phone: "628-233-6231", user_id: 1)
 Relative.create(full_name: "Jay Papisan", phone: "415-361-6772", user_id: 1)
-Relative.create(full_name: "Lauren Freeman", phone: "802-333-2210", user_id: 1)
-Relative.create(full_name: "Helen Partel", phone: "913-221-4342", user_id: 1)
-Relative.create(full_name: "Shambhavi Gutenberg", phone: "650-843-9812", user_id: 1)
-
+Relative.create(full_name: "Jun Ota", phone: "802-333-2210", user_id: 1)
