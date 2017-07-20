@@ -1,5 +1,5 @@
 # Safe.ly 
-*With safe.ly, your loved ones are always a text away from knowing you're safe!*
+*With safe.ly, your loved ones are only a text away from knowing you're safe!*
 
 ![Safe.ly Logo](/public/images/logo.png)
 
