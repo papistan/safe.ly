@@ -2,7 +2,10 @@
 *With safe.ly, your loved ones are only a text away from knowing you're safe!*
 
 ![Safe.ly Logo](/public/images/logo.png)
-![Winning](/public/images/satoriprize1.jpg)
+
+<img src="/public/images/satoriprize1.jpg" 
+ alt="Win pic" title="Win" align="right" width="600" height="400"/>
+
 ![Tweet Image 1](/public/images/hackathon_photo.png)
 ![Tweet Image 2](/public/images/safely_demo.png)
 
@@ -66,7 +69,7 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
 
 ## Team Dynamics
  <img src="/public/images/SI3A6041 (1).jpg" 
- alt="Team mates" title="Team" align="right" width="400" height="400"/>
+ alt="Team mates" title="Team" align="right" width="600" height="400"/>
  
 * Schedule
   * Saturday June 24th, 1pm - Sunday June 25th 1pm (24-hours)
