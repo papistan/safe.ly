@@ -76,7 +76,7 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
   * Saturday June 24th, 1pm - Sunday June 25th 1pm (24-hours)
 
 * Stand-Ups
- * Every 2 hours
+  * Every 2 hours
 
 * Check-In Protocol
   * Victories
