@@ -1,6 +1,5 @@
-# Safe.ly 
+# Safe.ly *With safe.ly, your loved ones are only a text away from knowing you're safe!*
 * WINNING PROJECT for best use of Satori's Earthquake Events API - AngelHack Hackathon Sacramento 2017
-*With safe.ly, your loved ones are only a text away from knowing you're safe!*
 
 ![Safe.ly Logo](/public/images/logo.png)
 
@@ -32,25 +31,25 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
   * Ruby on Rails Backend
 
 * Satori Earthquake Events API features:
-  * Description 1
-  * Description 2
-  * Description 3
+  * 
   
 * Twilio SMS Messaging API features:
-  * Description 1
-  * Description 2
-  * Description 3
+  * Requirements - TWILIO Phone Number, TWILIO Account SID and TWILIO Account API Key
+  * Text messages generated using Ruby calls in conjunction with the components listed above
+  * Responses captured by Rails backend using GET method for TWILIO specific route that was configured on TWILIO's dashboard
 
 * Rails front-end web app features:
-  * Description 1
-  * Description 2
-  * Description 3
+  * Complete mobile responsive front-end
+  * Landing page, registration page, user profile page
 
 * Rails back-end features:
-  * Description 1
-  * Description 2
-  * Description 3
-
+  * PostgreSQL Database that stores user information such as:
+    * User's Full Name
+    * User's Phone Number
+    * User's Geographic Location
+    * User's Contacts' Names
+    * User's Contacts' Phone Numbers
+  * Parsing Satori's Earthquake Events data via helper methods and transferring that data to controllers
 
 ## App Usage Flow
 
