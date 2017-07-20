@@ -1,4 +1,4 @@
-# Safe.ly 
+# Safe.ly (1st PLACE for best use of Satori's Earthquake Events API - AngelHack Hackathon Sacramento 2017)
 *With safe.ly, your loved ones are only a text away from knowing you're safe!*
 
 ![Safe.ly Logo](/public/images/logo.png)
@@ -64,12 +64,10 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
 ## Team Dynamics
 
 * Schedule
-  * 8am - 8pm (very flexible)
+  * Saturday June 24th, 1pm - Sunday June 25th 1pm (24-hours)
 
 * Stand-Ups
-  * 9am
-  * 2pm
-  * 6pm
+ * Every 2 hours
 
 * Check-In Protocol
   * Victories
