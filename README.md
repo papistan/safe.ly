@@ -73,7 +73,7 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
  alt="Team mates" title="Team" align="right" width="300" height="200"/>
  
 * Schedule
-  * Saturday June 24th, 1pm - Sunday June 25th 1pm (24-hours)
+  * Saturday June 24th, 1pm - Sunday June 25th, 1pm (24-hours)
 
 * Stand-Ups
   * Every 2 hours
