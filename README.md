@@ -11,7 +11,7 @@
 
 * Chinmay Banker ([@chinmaybanker](https://github.com/chinmaybanker))
 * Lukas Kuhn ([@lucaskuhn](https://github.com/LucasKuhn))
-* Jay Papisan ([@papistan](https://github.com/thisisdom))
+* Jay Papisan ([@papistan](https://github.com/papistan))
 * Jun Ota ([@jun-ota](https://github.com/Jun-Ota))
 
 The idea for our app was born out of a personal experience by one of our team members. We realized that there was a need for a low tech solution for loved ones who are thousands of miles apart to let each other know that they're safe in the event of a natural disaster such as an earthquake.
