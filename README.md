@@ -16,14 +16,13 @@
 
 ## MVP functionalities
 
-Safe.ly provides a low tech solution for loved ones who are thousands of miles apart to let each other know that they're safe in the event of natural disasters such as an earthquake.
-
-Our app safe.ly utilizes 2 APIs-- it combines the power of Satori's live data feed with Twilio's ability to send and recieve text messages to provide a simple reassurance tool for people at a time when the health and safety of their loved ones is foremost on their minds. 
+Safe.ly provides a low tech solution for loved ones who are thousands of miles apart to let each other know that they're safe in the event of natural disasters such as an earthquake. It combines the power of Satori's live data feed with Twilio's ability to send and recieve text messages to provide a simple reassurance tool for people at a time when the health and safety of their loved ones is foremost on their minds. 
 
 * Architecture consists of:
   * [Satori Earthquake Events API](https://www.satori.com/channels/USGS-Earthquakes)
   * [Twilio SMS Messaging API](https://www.twilio.com/docs/tutorials/server-notifications-ruby-rails)
-  * Ruby on Rails Frontend (w/Bootstrap) and Backend
+  * Ruby on Rails Frontend (w/Bootstrap)
+  * Ruby on Rails Backend
 
 * Satori Earthquake Events API features:
   * Description 1
