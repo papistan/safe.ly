@@ -1,4 +1,4 @@
-# Safe.ly 
+# Safe.ly (1st PLACE for best use of Satori's Earthquake Events API - AngelHack Hackathon Sacramento 2017)
 *With safe.ly, your loved ones are only a text away from knowing you're safe!*
 
 ![Safe.ly Logo](/public/images/logo.png)
@@ -14,28 +14,36 @@
 * Jay Papisan ([@papistan](https://github.com/papistan))
 * Jun Ota ([@jun-ota](https://github.com/Jun-Ota))
 
-The idea for our app was born out of a personal experience by one of our team members. We realized that there was a need for a low tech solution for loved ones who are thousands of miles apart to let each other know that they're safe in the event of a natural disaster such as an earthquake.
-
 ## MVP functionalities
 
-Our app safe.ly utilizes 2 APIs-- it combines the power of Satori's live data feed with Twilio's ability to send and recieve text messages to provide a simple reassurance tool for people at a time when the health and safety of their loved ones is foremost on their minds. 
+Safe.ly provides a low tech solution for loved ones who are thousands of miles apart to let each other know that they're safe in the event of natural disasters such as an earthquake. It combines the power of Satori's live data feed with Twilio's ability to send and recieve text messages to provide a simple reassurance tool for people at a time when the health and safety of their loved ones is foremost on their minds. 
 
-* Decoupled architecture consisting of:
-  * [Rails back-end API](http://github.com/thisisdom/project-mathcraft-api)
-  * [Rails and JS front-end web application](http://github.com/thisisdom/project-mathcraft)
+* Architecture consists of:
+  * [Satori Earthquake Events API](https://www.satori.com/channels/USGS-Earthquakes)
+  * [Twilio SMS Messaging API](https://www.twilio.com/docs/tutorials/server-notifications-ruby-rails)
+  * Ruby on Rails Frontend (w/Bootstrap)
+  * Ruby on Rails Backend
 
-* Rails back-end API features:
-  * Persistent storage of players' resources, buildings, and levels across multiple play sessions
-    * Updates and stores players' towns and resources based on various in-game actions
-  * Loads assets (music, sfx, sprites, etc.) for each level and building
-  * Dynamically generates math questions of varying type and difficulty
-  * Uses authorization security to prevent player info from being accessed and hacked
+* Satori Earthquake Events API features:
+  * Description 1
+  * Description 2
+  * Description 3
+  
+* Twilio SMS Messaging API features:
+  * Description 1
+  * Description 2
+  * Description 3
 
-* Rails front-end web app features
-  * Displays buildings by parsing back-end requests for players to view, build, and edit
-  initializes creation of resources in back-end API database from user input
-  * Integrates data visualization from parsed data from back-end API
-  * Allows players to play various levels, visualizing their resource gains as they answer different questions
+* Rails front-end web app features:
+  * Description 1
+  * Description 2
+  * Description 3
+
+* Rails back-end features:
+  * Description 1
+  * Description 2
+  * Description 3
+
 
 ## App Usage Flow
 
@@ -56,12 +64,10 @@ Our app safe.ly utilizes 2 APIs-- it combines the power of Satori's live data fe
 ## Team Dynamics
 
 * Schedule
-  * 8am - 8pm (very flexible)
+  * Saturday June 24th, 1pm - Sunday June 25th 1pm (24-hours)
 
 * Stand-Ups
-  * 9am
-  * 2pm
-  * 6pm
+ * Every 2 hours
 
 * Check-In Protocol
   * Victories
