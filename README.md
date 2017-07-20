@@ -3,6 +3,9 @@
 
 ![Safe.ly Logo](/public/images/logo.png)
 
+![Tweet Image 1](/public/images/hackathon_photo.png)
+![Tweet Image 2](/public/images/safely_demo.png)
+
 ## Watch Full Demo
 
 [![Watch the video](/public/readme_images/youtube_screen.png)](https://youtu.be/aAwIbdGh1go)
