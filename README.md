@@ -55,10 +55,12 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
 ## App Usage Flow
 
 * Users register to our website with names and phone numbers of their closest relatives that they would like to inform in the event of an eartquake in their area.
-------SREENSHOT HERE------
+
+[!Landing Page](/public/images/sign_up_page.jpg)
 
 * Safe.ly monitors Earthquake data through Satori's API.
-------SREENSHOT HERE------
+
+[!Earthquake Data](/public/images/earthquake_data.png)
 
 * Everytime an Earthquake event comes in, our app checks the database to locate registered users who may be affected by the event with respect to their registered location.
 
