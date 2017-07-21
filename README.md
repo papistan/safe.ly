@@ -3,11 +3,11 @@
 * WINNER AngelHack Hackathon Sacramento 2017 for best use of Satori API
 
 <img src="/public/images/hackathon_photo.png" 
- alt="Tweet Image 1" title="AngelHack" width="310" align="left" height="220"/>
- <img src="/public/images/safely_demo.png" 
- alt="Tweet Image 2" title="AngelHack" width="310" align="left" height="220"/>
+ alt="Tweet Image 1" title="AngelHack" width="350" align="left" height="220"/>
 <img src="/public/images/satoriprize1.jpg" 
- alt="Win pic" title="Win" align="left" width="250" height="200"/>
+ alt="Win pic" title="Win" align="right" width="250" height="200"/>
+<img src="/public/images/safely_demo.png" 
+ alt="Tweet Image 2" title="AngelHack" width="350" align="left" height="220"/>
 
 ## Watch Full Demo
 
@@ -56,7 +56,8 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
 
 * Users register to our website with names and phone numbers of their closest relatives that they would like to inform in the event of an eartquake in their area.
 
-![Landing Page](/public/images/sign_up_page.jpg)
+<img src="/public/images/sign_up_page.jpg" 
+ alt="SignUpPage" title="AngelHack" width="288" align="center" height="512"/>
 
 * Safe.ly monitors Earthquake data through Satori's API.
 
