@@ -66,8 +66,18 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
  alt="ContactInfo" title="AngelHack" width="288" align="center" height="512"/>
 
 * The app first sends a text to these users asking them if they're OK.
+<img src="/public/images/first_message.jpg" 
+ alt="AskUser" title="AngelHack" width="288" align="center" height="512"/>
+
+* The user then has to respond "YES" if they are SAFE.
+
+<img src="/public/images/respond_yes.jpg" 
+ alt="UserSafe" title="AngelHack" width="288" align="center" height="512"/>
 
 * If the user responds "YES", the app then sends a text to all the numbers stored in the database that relate to the user's loved ones and notify them that the user in question is SAFE.
+
+<img src="/public/images/notify.jpg" 
+ alt="AlertRelatives" title="AngelHack" width="288" align="center" height="512"/>
 
 ## Team Dynamics
  <img src="/public/images/SI3A6041 (1).jpg" 
