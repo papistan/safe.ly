@@ -3,11 +3,11 @@
 * WINNER AngelHack Hackathon Sacramento 2017 for best use of Satori API
 
 <img src="/public/images/hackathon_photo.png" 
- alt="Tweet Image 1" title="AngelHack" width="350" align="left" height="220"/>
+ alt="Tweet Image 1" title="AngelHack" width="350" height="220"/>
 <img src="/public/images/satoriprize1.jpg" 
- alt="Win pic" title="Win" align="right" width="250" height="200"/>
+ alt="Win pic" title="Win"  width="250" height="200"/>
 <img src="/public/images/safely_demo.png" 
- alt="Tweet Image 2" title="AngelHack" width="350" align="left" height="220"/>
+ alt="Tweet Image 2" title="AngelHack" width="350"  height="220"/>
 
 ## Watch Full Demo
 
