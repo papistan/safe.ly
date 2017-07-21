@@ -64,6 +64,8 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
 
 * Everytime an Earthquake event comes in, our app checks the database to locate registered users who may be affected by the event with respect to their registered location.
 
+![Earthquake Data](/public/images/contact_info.jpg)
+
 * The app first sends a text to these users asking them if they're OK.
 ------SREENSHOT HERE------
 
