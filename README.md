@@ -1,7 +1,13 @@
-# Safe.ly (1st PLACE for best use of Satori's Earthquake Events API - AngelHack Hackathon Sacramento 2017)
-*With safe.ly, your loved ones are only a text away from knowing you're safe!*
+# Safe.ly 
+**With safe.ly, your loved ones are only a text away from knowing you're safe!**
+* WINNER AngelHack Hackathon Sacramento 2017 for best use of Satori API
 
-![Safe.ly Logo](/public/images/logo.png)
+<img src="/public/images/hackathon_photo.png" 
+ alt="Tweet Image 1" title="AngelHack" align="left" width="300" height="200"/>
+ <img src="/public/images/safely_demo.png" 
+ alt="Tweet Image 2" title="AngelHack" align="center" width="300" height="200"/>
+<img src="/public/images/satoriprize1.jpg" 
+ alt="Win pic" title="Win" align="right" width="300" height="200"/>
 
 ## Watch Full Demo
 
@@ -25,25 +31,25 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
   * Ruby on Rails Backend
 
 * Satori Earthquake Events API features:
-  * Description 1
-  * Description 2
-  * Description 3
+  * 
   
 * Twilio SMS Messaging API features:
-  * Description 1
-  * Description 2
-  * Description 3
+  * Requirements - TWILIO Phone Number, TWILIO Account SID and TWILIO Account API Key
+  * Text messages generated using Ruby calls in conjunction with the components listed above
+  * Responses captured by Rails backend using GET method for TWILIO specific route that was configured on TWILIO's dashboard
 
 * Rails front-end web app features:
-  * Description 1
-  * Description 2
-  * Description 3
+  * Complete mobile responsive front-end
+  * Landing page, registration page, user profile page
 
 * Rails back-end features:
-  * Description 1
-  * Description 2
-  * Description 3
-
+  * PostgreSQL Database that stores user information such as:
+    * User's Full Name
+    * User's Phone Number
+    * User's Geographic Location
+    * User's Contacts' Names
+    * User's Contacts' Phone Numbers
+  * Parsing Satori's Earthquake Events data via helper methods and transferring that data to controllers
 
 ## App Usage Flow
 
@@ -62,12 +68,14 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
 ------2 SREENSHOTS HERE------
 
 ## Team Dynamics
-
+ <img src="/public/images/SI3A6041 (1).jpg" 
+ alt="Team mates" title="Team" align="right" width="300" height="200"/>
+ 
 * Schedule
-  * Saturday June 24th, 1pm - Sunday June 25th 1pm (24-hours)
+  * Saturday June 24th, 1pm - Sunday June 25th, 1pm (24-hours)
 
 * Stand-Ups
- * Every 2 hours
+  * Every 2 hours
 
 * Check-In Protocol
   * Victories
