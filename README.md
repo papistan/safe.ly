@@ -3,11 +3,11 @@
 * WINNER AngelHack Hackathon Sacramento 2017 for best use of Satori API
 
 <img src="/public/images/hackathon_photo.png" 
- alt="Tweet Image 1" title="AngelHack" align="left" width="300" height="200"/>
+ alt="Tweet Image 1" title="AngelHack" align="left" width="250" height="200"/>
  <img src="/public/images/safely_demo.png" 
- alt="Tweet Image 2" title="AngelHack" align="center" width="300" height="200"/>
+ alt="Tweet Image 2" title="AngelHack" align="center" width="250" height="200"/>
 <img src="/public/images/satoriprize1.jpg" 
- alt="Win pic" title="Win" align="right" width="300" height="200"/>
+ alt="Win pic" title="Win" align="right" width="250" height="200"/>
 
 ## Watch Full Demo
 
@@ -31,7 +31,8 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
   * Ruby on Rails Backend
 
 * Satori Earthquake Events API features:
-  * 
+  * Filtered by significant earthquakes (over 2.5 richter scale)
+  * Matches location with user-saved location in Postgres database
   
 * Twilio SMS Messaging API features:
   * Requirements - TWILIO Phone Number, TWILIO Account SID and TWILIO Account API Key
