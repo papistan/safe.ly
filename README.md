@@ -66,6 +66,7 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
  alt="ContactInfo" title="AngelHack" width="288" align="center" height="512"/>
 
 * The app first sends a text to these users asking them if they're OK.
+
 <img src="/public/images/first_message.jpg" 
  alt="AskUser" title="AngelHack" width="288" align="center" height="512"/>
 
