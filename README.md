@@ -1,11 +1,11 @@
 # Safe.ly 
 **With safe.ly, your loved ones are only a text away from knowing you're safe!**
-* WINNING PROJECT for best use of Satori's Earthquake Events API - AngelHack Hackathon Sacramento 2017
+* WINNER AngelHack Hackathon Sacramento 2017 for best use of Satori API
 
 <img src="/public/images/hackathon_photo.png" 
- alt="Tweet Image 1" title="AngelHack" align="left" />
+ alt="Tweet Image 1" title="AngelHack" align="left" width="300" height="200"/>
  <img src="/public/images/safely_demo.png" 
- alt="Tweet Image 2" title="AngelHack" align="center" />
+ alt="Tweet Image 2" title="AngelHack" align="center" width="300" height="200"/>
 <img src="/public/images/satoriprize1.jpg" 
  alt="Win pic" title="Win" align="right" width="300" height="200"/>
 
