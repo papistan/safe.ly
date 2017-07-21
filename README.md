@@ -5,7 +5,7 @@
 <img src="/public/images/hackathon_photo.png" 
  alt="Tweet Image 1" title="AngelHack" align="left" width="300" height="220"/>
  <img src="/public/images/safely_demo.png" 
- alt="Tweet Image 2" title="AngelHack" align="left" width="300" height="220"/>
+ alt="Tweet Image 2" title="AngelHack" align="center" width="300" height="220"/>
 <img src="/public/images/satoriprize1.jpg" 
  alt="Win pic" title="Win" align="right" width="250" height="200"/>
 
