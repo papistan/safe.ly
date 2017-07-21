@@ -9,10 +9,6 @@
 <img src="/public/images/satoriprize1.jpg" 
  alt="Win pic" title="Win"  width="275" height="200"/>
 
-## Watch Full Demo
-
-[![Watch the video](/public/readme_images/youtube_screen.png)](https://youtu.be/aAwIbdGh1go)
-
 ## Authored by
 
 * Chinmay Banker ([@chinmaybanker](https://github.com/chinmaybanker))
@@ -70,10 +66,8 @@ Safe.ly provides a low tech solution for loved ones who are thousands of miles a
  alt="ContactInfo" title="AngelHack" width="288" align="center" height="512"/>
 
 * The app first sends a text to these users asking them if they're OK.
-------SREENSHOT HERE------
 
 * If the user responds "YES", the app then sends a text to all the numbers stored in the database that relate to the user's loved ones and notify them that the user in question is SAFE.
-------2 SREENSHOTS HERE------
 
 ## Team Dynamics
  <img src="/public/images/SI3A6041 (1).jpg" 
